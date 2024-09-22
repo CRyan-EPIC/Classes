@@ -1,4 +1,3 @@
-# Licensing
 Permission is hereby granted to students and individual educators to use, modify, and distribute these assignments for personal or classroom educational purposes only, subject to the following conditions:
 
 1. Commercial use by corporations, non-profit organizations, or for-profit entities is strictly prohibited.
